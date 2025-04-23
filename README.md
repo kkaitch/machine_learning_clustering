@@ -9,5 +9,5 @@ This project has three parts:
 * Part III: PCA and Eigenfaces
 
 ## Dataset
-1. Faces in the Wild data set
+1. Faces in the Wild data set (roughly 250MB)
 2. My image
